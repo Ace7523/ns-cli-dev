@@ -1,6 +1,6 @@
 {
   "name": "@ns-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "nishuai03 <nishuai03@kuaishou.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ns-cli-dev/utils": "^0.0.1"
+    "@ns-cli-dev/utils": "^0.0.2"
   },
   "gitHead": "826d0938e91e00c8327bde8ce49512e89dce956c"
 }
