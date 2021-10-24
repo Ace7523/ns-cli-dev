@@ -1,6 +1,6 @@
 {
   "name": "@ns-cli-dev/utils",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "nishuai03 <nishuai03@kuaishou.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "826d0938e91e00c8327bde8ce49512e89dce956c"
+  "gitHead": "83b5c9845679ec0f1e85c9212ac6b89646f25df8"
 }

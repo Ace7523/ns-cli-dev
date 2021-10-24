@@ -1,6 +1,6 @@
 {
   "name": "@ns-cli-dev/core",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "nishuai03 <nishuai03@kuaishou.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "@ns-cli-dev/utils": "^0.0.2"
   },
-  "gitHead": "826d0938e91e00c8327bde8ce49512e89dce956c"
+  "gitHead": "83b5c9845679ec0f1e85c9212ac6b89646f25df8"
 }
