@@ -20,7 +20,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ns-cli-dev/utils": "^0.0.2"
+    "@ns-cli-dev/utils": "file:../../utils/utils",
+    "@ns-cli-dev/log": "file:../../utils/log",
+    "import-local": "^3.0.3",
+    "npmlog": "^5.0.1"
   },
   "gitHead": "83b5c9845679ec0f1e85c9212ac6b89646f25df8",
   "publishConfig": {
